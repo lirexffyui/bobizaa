@@ -1,9 +1,3 @@
-//By OMARCHARAF1 
-//www.guthub.com/omarcharaf1
-//instagram com/ovmar_1
-//JITOSSA ADMIN 
-
-
 import fetch from 'node-fetch';
 
 let handler = async (m, { conn, args, text, usedPrefix, command }) => {
